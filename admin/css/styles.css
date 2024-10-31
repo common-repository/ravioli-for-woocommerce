@@ -1,0 +1,26 @@
+.ravioli-code {
+  /* formats the text as inline code */
+  background-color: #e1e4e8;
+  border-radius: 3px;
+  color: #24292e;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace;
+  font-size: 85%;
+  margin: 0;
+  padding: 0.2em 0.4em;
+}
+
+.ravioli-modal-image-preview {
+  display: block;
+  width: 12rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.ravioli-modal-image-preview-button {
+  display: block !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.ravioli-modal-image-preview-reset {
+  cursor: pointer;
+}
